@@ -29,6 +29,7 @@ Lee's Deli
 Max's Opera Cafe
 Sutter Pub
 Sammy's Cafe
+Million Thai
 END
 .split("\n").uniq.freeze
 
