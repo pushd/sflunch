@@ -5,7 +5,6 @@ SAJJ
 Raavi
 La Mediterranee
 Pancho Villa Taqueria
-Sutter Pub
 Vietnam House
 Curry Up Now
 Pica Pica
