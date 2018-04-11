@@ -29,6 +29,7 @@ Max's Opera Cafe
 Sutter Pub
 Sammy's Cafe
 Million Thai
+Taqueria Zorro
 END
 .split("\n").uniq.freeze
 
