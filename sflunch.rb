@@ -3,7 +3,6 @@
 FAVORITES = <<-END
 SAJJ
 Raavi
-La Mediterranee
 Pancho Villa Taqueria
 Vietnam House
 Curry Up Now
@@ -30,6 +29,8 @@ Sutter Pub
 Sammy's Cafe
 Million Thai
 Taqueria Zorro
+We Be Sushi
+Saucy Asian
 END
 .split("\n").uniq.freeze
 
