@@ -11,6 +11,7 @@ iThai
 May Lee's Restaurant
 Saffron 685
 Cholo Soy
+Pao Jao Dumpling
 END
 .split("\n").uniq.freeze
 
