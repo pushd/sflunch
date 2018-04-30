@@ -17,6 +17,7 @@ END
 
 VETOES = <<-END
 Vietnam House
+Lotus Garden ***REMOVED*** Restaurant
 Zen Yai Thai Restaurant
 Rock Japanese Cuisine
 Kisu Japanese Cuisine
@@ -33,6 +34,7 @@ Million Thai
 Taqueria Zorro
 We Be Sushi
 Saucy Asian
+Perilla ***REMOVED*** Cuisine
 END
 .split("\n").uniq.freeze
 
