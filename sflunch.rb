@@ -4,7 +4,6 @@ FAVORITES = <<-END
 SAJJ
 Raavi
 Pancho Villa Taqueria
-Vietnam House
 Curry Up Now
 Pica Pica
 iThai
@@ -12,10 +11,12 @@ May Lee's Restaurant
 Saffron 685
 Cholo Soy
 Pao Jao Dumpling
+Green Papaya
 END
 .split("\n").uniq.freeze
 
 VETOES = <<-END
+Vietnam House
 Zen Yai Thai Restaurant
 Rock Japanese Cuisine
 Kisu Japanese Cuisine
