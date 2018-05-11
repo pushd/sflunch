@@ -15,6 +15,7 @@ END
 .split("\n").uniq.freeze
 
 VETOES = <<-END
+Bayshore Taqueria
 Vietnam House
 Lotus Garden ***REMOVED*** Restaurant
 Zen Yai Thai Restaurant
@@ -104,6 +105,7 @@ Roxanne's
 We Be Sushi
 Zen Yai Thai Restaurant
 Rock Japanese Cuisine
+Bayshore Taqueria
 END
 .split("\n").uniq.freeze
 
