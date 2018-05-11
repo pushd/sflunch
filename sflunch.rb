@@ -61,7 +61,6 @@ Chez Beesen
 Urba Curry
 Sally's Restaurant
 R Caffe
-Bayshore Taqueria
 Nucha Empanadas
 Cholo Soy
 Saucy Asian
