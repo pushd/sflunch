@@ -5,7 +5,6 @@ SAJJ
 Raavi
 Pancho Villa Taqueria
 Curry Up Now
-Pica Pica
 iThai
 May Lee's Restaurant
 Saffron 685
