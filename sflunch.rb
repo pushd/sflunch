@@ -11,6 +11,7 @@ Saffron 685
 Cholo Soy
 Pao Jao Dumpling
 Green Papaya
+Chavita's Mexican Restaurant
 END
 .split("\n").uniq.freeze
 
