@@ -15,7 +15,7 @@ VETOES = <<-END
 Chavita's Mexican Restaurant
 Bayshore Taqueria
 Vietnam House
-Lotus Garden ***REMOVED*** Restaurant
+Lotus Garden Vietnamese Restaurant
 Zen Yai Thai Restaurant
 Rock Japanese Cuisine
 Kisu Japanese Cuisine
@@ -32,10 +32,11 @@ Million Thai
 Taqueria Zorro
 We Be Sushi
 Saucy Asian
-Perilla ***REMOVED*** Cuisine
+Perilla Vietnamese Cuisine
 Crepe & Curry
 The Crepe House III
 Togo's
+Allstar Cafe
 END
 .split("\n").uniq.freeze
 
@@ -57,7 +58,7 @@ California Pizza Kitchen
 Oda
 Modern Thai
 Allstar Cafe
-Lotus Garden ***REMOVED*** Restaurant
+Lotus Garden Vietnamese Restaurant
 The Crepe House III
 Chez Beesen
 Urba Curry
@@ -82,7 +83,7 @@ Enjoy Vegetarian
 Togo's
 Little Szechuan
 Caffe Bianco
-Perilla ***REMOVED*** Cuisine
+Perilla Vietnamese Cuisine
 Phat Philly
 Lee's Deli
 Palmyra
