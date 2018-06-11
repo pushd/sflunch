@@ -35,6 +35,7 @@ Saucy Asian
 Perilla ***REMOVED*** Cuisine
 Crepe & Curry
 The Crepe House III
+Togo's
 END
 .split("\n").uniq.freeze
 
