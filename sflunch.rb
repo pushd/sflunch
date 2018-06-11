@@ -6,9 +6,6 @@ Raavi
 Pancho Villa Taqueria
 Curry Up Now
 iThai
-May Lee's Restaurant
-Saffron 685
-Cholo Soy
 Pao Jao Dumpling
 Green Papaya
 END
@@ -112,7 +109,7 @@ Bayshore Taqueria
 END
 .split("\n").uniq.freeze
 
-all = ((FAVORITES + FAVORITES + FAVORITES + ALL) - VETOES)
+all = ((FAVORITES + FAVORITES + ALL) - VETOES)
 picks = []
 while picks.length < 5 do
   pick = all.sample(1)
