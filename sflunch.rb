@@ -36,6 +36,8 @@ Taqueria Zorro
 We Be Sushi
 Saucy Asian
 Perilla ***REMOVED*** Cuisine
+Crepe & Curry
+The Crepe House III
 END
 .split("\n").uniq.freeze
 
@@ -110,11 +112,16 @@ Bayshore Taqueria
 END
 .split("\n").uniq.freeze
 
-yes_selections = (FAVORITES - VETOES).sample(2)
-new_selections = (ALL - FAVORITES - VETOES).sample(3)
+all = ((FAVORITES + FAVORITES + FAVORITES + ALL) - VETOES)
+picks = []
+while picks.length < 5 do
+  pick = all.sample(1)
+  unless picks.include?(pick)
+    picks << pick
+  end
+end
 
-all_selections = (yes_selections + new_selections).shuffle
 puts Time.now
-all_selections.each do |s|
+picks.each do |s|
   puts s
 end
