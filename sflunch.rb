@@ -21,7 +21,6 @@ Rock Japanese Cuisine
 Kisu Japanese Cuisine
 Handy Deli
 Enjoy Vegetarian
-***REMOVED***
 Palio Cafe
 Schilling Cafe
 Lee's Deli
@@ -35,7 +34,6 @@ Saucy Asian
 Perilla Vietnamese Cuisine
 Crepe & Curry
 The Crepe House III
-Togo's
 Allstar Cafe
 END
 .split("\n").uniq.freeze
@@ -80,7 +78,6 @@ Taqueria Zorro
 Fresca Garden
 Sammy's Cafe
 Enjoy Vegetarian
-Togo's
 Little Szechuan
 Caffe Bianco
 Perilla Vietnamese Cuisine
