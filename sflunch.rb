@@ -8,6 +8,7 @@ Curry Up Now
 iThai
 Pao Jao Dumpling
 Green Papaya
+Roxanne's
 END
 .split("\n").uniq.freeze
 
