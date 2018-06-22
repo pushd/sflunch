@@ -13,6 +13,19 @@ END
 .split("\n").uniq.freeze
 
 VETOES = <<-END
+Chaat Corner
+R Caffe
+Urba Curry
+Clay Oven
+Cuisine of Nepal
+Phillie's
+Palmyra
+Mikado Sushi
+Alimento
+Phat Philly
+Fresca Garden
+North India Restaurant
+Modern Thai
 Chavita's Mexican Restaurant
 Bayshore Taqueria
 Vietnam House
