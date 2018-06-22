@@ -13,6 +13,7 @@ END
 .split("\n").uniq.freeze
 
 VETOES = <<-END
+Opa Cafe
 Chaat Corner
 R Caffe
 Urba Curry
