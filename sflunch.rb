@@ -36,6 +36,7 @@ Perilla Vietnamese Cuisine
 Crepe & Curry
 The Crepe House III
 Allstar Cafe
+Oda
 END
 .split("\n").uniq.freeze
 
