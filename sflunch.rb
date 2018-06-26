@@ -13,6 +13,7 @@ END
 .split("\n").uniq.freeze
 
 VETOES = <<-END
+Golden Kim Tar
 Opa Cafe
 Chaat Corner
 R Caffe
